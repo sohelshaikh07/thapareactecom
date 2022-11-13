@@ -1,6 +1,14 @@
 {
   "cSpell.words": ["filterproduct"],
   "workbench.activityBar.visible": true,
-  "workbench.colorCustomizations": {},
-  "json.schemas": []
+  "workbench.colorCustomizations": {
+    "sash.hoverBorder": "#2f7c47",
+    "statusBar.background": "#215732",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#2f7c47",
+    "statusBarItem.remoteBackground": "#215732",
+    "statusBarItem.remoteForeground": "#e7e7e7"
+  },
+  "json.schemas": [],
+  "peacock.color": "#215732"
 }
